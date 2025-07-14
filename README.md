@@ -1,3 +1,5 @@
+![Preview](capa.png)
+
 # Currency Converter
 
 A simple project built with HTML, CSS, and JavaScript to convert values to Brazilian Real (BRL), formatted using `toLocaleString`.
